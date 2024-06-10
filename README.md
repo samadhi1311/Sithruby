@@ -6,5 +6,5 @@
 </div>
 
 ## Collaborative Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samadhi1311&repo=probe&theme=material-palenight&hide_border=true&description_lines_count=1)](https://github.com/samadhi1311/probe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pramu-99&repo=VV-Master&theme=material-palenight&hide_border=true&description_lines_count=1)](https://github.com/Pramu-99/VV-Master)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samadhi1311&repo=probe&theme=material-palenight&hide_border=true&description_lines_count=2)](https://github.com/samadhi1311/probe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pramu-99&repo=VV-Master&theme=material-palenight&hide_border=true&description_lines_count=2)](https://github.com/Pramu-99/VV-Master)
