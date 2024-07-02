@@ -1,6 +1,5 @@
 # About Me
-
-Hii, I'm Sithruby; a passionate software developer from Sri Lanka. Currently an undergraduate of Vavuniya Campus, University of Jaffna.
+<img src="https://github.com/samadhi1311/Sithruby/assets/69573759/3bc52320-563c-4e3b-8cdf-3ed4474b1b98" width="100%" />
 
 <table align="center">
 <tr>
