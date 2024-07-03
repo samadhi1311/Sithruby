@@ -1,12 +1,13 @@
 # About Me
-<img src="https://github.com/samadhi1311/Sithruby/assets/69573759/3bc52320-563c-4e3b-8cdf-3ed4474b1b98" width="100%" />
+I'm Sithruby Manoranjan, a passionate full-stack developer from Sri Lanka. </br>
+BSc in IT (Hons) - Vavuniya Campus, University of Jaffna
 
 <table align="center">
 <tr>
-    <th width="441">
+    <th width="800px">
       Programming Languages
     </th>
-    <th width="441">
+    <th width="800px">
       Frameworks and Libraries
     </th>
 </tr>
