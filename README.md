@@ -30,7 +30,7 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </td>
 
-<td>
+<td valign="top">
   
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,7 +60,7 @@
 </tr>
 
 <tr>
-  <td>
+  <td valign="top">
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
@@ -71,7 +71,7 @@
 
 </td>
 
-  <td>
+  <td valign="top">
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge)
@@ -90,7 +90,7 @@ Artificial Intelligence and Machine Learning
 </tr>
 
 <tr>
-  <td colspan="2">
+  <td colspan="2" valign="top" align="center">
 
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
